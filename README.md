@@ -37,8 +37,8 @@ R Code and Datasets for "Convolution smoothed quantile regression for multiple c
 
 ### [Data](https://github.com/Stat-Y/CSQR_MCR/tree/main/Data)
 
-- [CCLE.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/CCLE.RData)
+- [CCLE.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/CCLE.RData) : https://sites.broadinstitute.org/ccle/ gene expressions and IC50 see the main paper for details for the data
 
-- [GDSC.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/GDSC.RData)
+- [GDSC.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/GDSC.RData) : https://www.cancerrxgene.org gene expressions and IC50 see the main paper for details for the data
 
-- [Yeast.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/Yeast.RData)
+- [Yeast.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/Yeast.RData) : R package spls details in the main paper
