@@ -29,6 +29,16 @@ R Code and Datasets for "Convolution smoothed quantile regression for multiple c
 
 ### [Simulation_Parameters](https://github.com/Stat-Y/CSQR_MCR/tree/main/Simulation_Parameters)
 
+- [beta0.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/beta0.RData) : 
+
+- [Beta_p800_q20_s20_r4.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/Beta_p800_q20_s20_r4.RData) :
+
+- [Beta_p800_q20_s40_r4.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/Beta_p800_q20_s40_r4.RData) : 
+
 ### [Data](https://github.com/Stat-Y/CSQR_MCR/tree/main/Data)
 
+- [CCLE.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/CCLE.RData)
 
+- [GDSC.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/GDSC.RData)
+
+- [Yeast.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/Yeast.RData)
