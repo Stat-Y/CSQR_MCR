@@ -1,20 +1,17 @@
 # CSQR_MCR
 R Code and Datasets for "Convolution smoothed quantile regression for multiple correlated responses".
 
-## Overview
-
-
 ## Main Functions
 
-[LSSQMR_Pilot_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Pilot_Example.R) : 
+[LSSQMR_Pilot_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Pilot_Example.R) : Pilot example for fitting the proposed method using simulated dataset.
 
-[LSSQMR_Simulation_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Simulation_Example.R) : 
+[LSSQMR_Simulation_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Simulation_Example.R) : Compares the proposed method with other methods through a simulation study, following the setup in the main paper's "Simulation Study" section.
 
-[LSSQMR_Real_Application_CCLE_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_CCLE_Example.R) : 
+[LSSQMR_Real_Application_CCLE_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_CCLE_Example.R) : Applies the proposed method using the CCLE dataset, following the guidelines outlined in the "Real data applications" section of the main paper and the supplementary materials' "Details of real datasets" section.
 
-[LSSQMR_Real_Application_GDSC_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_GDSC_Example.R) : 
+[LSSQMR_Real_Application_GDSC_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_GDSC_Example.R) : Applies the proposed method using the GDSC dataset, following the guidelines outlined in the "Real data applications" section of the main paper and the supplementary materials' "Details of real datasets" section.
 
-[LSSQMR_Real_Application_Yeast_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_Yeast_Example.R) : 
+[LSSQMR_Real_Application_Yeast_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_Yeast_Example.R) : Applies the proposed method using the Yeast cell type dataset, following the guidelines outlined in the "Real data applications" section of the main paper and the supplementary materials' "Details of real datasets" section.
 
 ## Directory
 
