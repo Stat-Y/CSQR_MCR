@@ -7,15 +7,15 @@ library(MASS)
 library(Matrix)
 
 # Functions
-setwd("~/LSSQMR_Git/Functions")
+setwd("~/CSQR_MCR/Functions")
 source("LSSQMR_Basic_Functions.R")
 source("LSSQMR_ADMM_Functions.R")
 source("LSSQMR_Simulation_Data_Functions.R")
 
 # Load B and beta0
-setwd("~/LSSQMR_Git/Simulation_Parameters")
-load("~/LSSQMR_Git/Simulation_Parameters/beta0.RData")
-load("~/LSSQMR_Git/Simulation_Parameters/Beta_p800_q20_s40_r4.RData")
+setwd("~/CSQR_MCR/Simulation_Parameters")
+load("~/CSQR_MCR/Simulation_Parameters/beta0.RData")
+load("~/CSQR_MCR/Simulation_Parameters/Beta_p800_q20_s40_r4.RData")
 
 # Generate Simulation Data
 Simul_Data=Simulation_Data(n=400, Beta, beta0, tau=0.75, 
