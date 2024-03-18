@@ -1,6 +1,9 @@
 # CSQR_MCR
 R Code and Datasets for "Convolution smoothed quantile regression for multiple correlated responses".
 
+## Overview
+
+
 ## Main Functions
 
 [LSSQMR_Pilot_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Pilot_Example.R) : 
@@ -42,3 +45,6 @@ R Code and Datasets for "Convolution smoothed quantile regression for multiple c
 - [GDSC.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/GDSC.RData) : https://www.cancerrxgene.org gene expressions and IC50 see the main paper for details for the data
 
 - [Yeast.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Data/Yeast.RData) : R package spls details in the main paper
+
+## Contact
+youngjin@vt.edu
