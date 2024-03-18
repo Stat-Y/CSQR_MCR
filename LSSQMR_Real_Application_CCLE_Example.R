@@ -53,10 +53,10 @@ CV_025=LSSQMR_Real_CVFit(Sparsity_option="row-wise", Penalty_option="SCAD", Y=Y,
                          lambda_1=optimal_025$Lambda1, lambda_2=optimal_025$Lambda2, CVgrp=CV10order)
 
 CV_050=LSSQMR_Real_CVFit(Sparsity_option="row-wise", Penalty_option="SCAD", Y=Y, X=X, tau=0.5,
-                         lambda_1=optimal_025$Lambda1, lambda_2=optimal_025$Lambda2, CVgrp=CV10order)
+                         lambda_1=optimal_050$Lambda1, lambda_2=optimal_050$Lambda2, CVgrp=CV10order)
 
 CV_075=LSSQMR_Real_CVFit(Sparsity_option="row-wise", Penalty_option="SCAD", Y=Y, X=X, tau=0.75,
-                         lambda_1=optimal_025$Lambda1, lambda_2=optimal_025$Lambda2, CVgrp=CV10order)
+                         lambda_1=optimal_075$Lambda1, lambda_2=optimal_075$Lambda2, CVgrp=CV10order)
 
 # Final Fit
 ## Initial values for tau = 0.25, 0.5, 0.75
