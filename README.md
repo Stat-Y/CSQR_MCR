@@ -17,23 +17,23 @@ R Code and Datasets for "Convolution smoothed quantile regression for multiple c
 
 ### [Functions](https://github.com/Stat-Y/CSQR_MCR/tree/main/Functions)
 
-- [LSSQMR_Basic_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Basic_Functions.R) :
+- [LSSQMR_Basic_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Basic_Functions.R) : Contains fundamental functions utilized in various steps of the ADMM algorithm.
 
-- [LSSQMR_ADMM_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_ADMM_Functions.R) : 
+- [LSSQMR_ADMM_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_ADMM_Functions.R) : Implements the ADMM algorithm for fitting the proposed method. 
 
-- [LSSQMR_Simulation_Data_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Simulation_Data_Functions.R) :
+- [LSSQMR_Simulation_Data_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Simulation_Data_Functions.R) : Provides functions for generating simulation datasets, which are employed in either [LSSQMR_Pilot_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Pilot_Example.R) or [LSSQMR_Simulation_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Simulation_Example.R).
 
-- [LSSQMR_Simulation_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Simulation_Functions.R) :
+- [LSSQMR_Simulation_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Simulation_Functions.R) : Functions for simulation that compares the proposed method with other methods, used in [LSSQMR_Simulation_Example.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Simulation_Example.R).
 
-- [LSSQMR_Real_Application_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Real_Application_Functions.R) :
+- [LSSQMR_Real_Application_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Real_Application_Functions.R) : Functions used in real data applications for [CCLE](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_CCLE_Example.R), [GDSC](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_GDSC_Example.R), and [Yeast cell type](https://github.com/Stat-Y/CSQR_MCR/blob/main/LSSQMR_Real_Application_CCLE_Example.R) datasets.
 
 ### [Simulation_Parameters](https://github.com/Stat-Y/CSQR_MCR/tree/main/Simulation_Parameters)
 
 - [beta0.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/beta0.RData) : 
 
-- [Beta_p800_q20_s20_r4.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/Beta_p800_q20_s20_r4.RData) :
+- [Beta_p800_q20_s20_r4.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/Beta_p800_q20_s20_r4.RData) : 
 
-- [Beta_p800_q20_s40_r4.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/Beta_p800_q20_s40_r4.RData) : 
+- [Beta_p800_q20_s40_r4.RData](https://github.com/Stat-Y/CSQR_MCR/blob/main/Simulation_Parameters/Beta_p800_q20_s40_r4.RData) :  
 
 ### [Data](https://github.com/Stat-Y/CSQR_MCR/tree/main/Data)
 
