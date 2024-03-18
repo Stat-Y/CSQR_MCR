@@ -17,6 +17,8 @@ R Code and Datasets for "Convolution smoothed quantile regression for multiple c
 
 ### [Functions](https://github.com/Stat-Y/CSQR_MCR/tree/main/Functions)
 
+[LSSQMR_Basic_Functions.R](https://github.com/Stat-Y/CSQR_MCR/blob/main/Functions/LSSQMR_Basic_Functions.R) : 
+
 ### [Simulation_Parameters](https://github.com/Stat-Y/CSQR_MCR/tree/main/Simulation_Parameters)
 
 ### [Data](https://github.com/Stat-Y/CSQR_MCR/tree/main/Data)
