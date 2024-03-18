@@ -15,13 +15,13 @@ library(parallelly)
 library(plyr)
 
 # Functions
-setwd("~/LSSQMR_Git/Functions")
+setwd("~/CSQR_MCR/Functions")
 source("LSSQMR_Basic_Functions.R")
 source("LSSQMR_ADMM_Functions.R")
 source("LSSQMR_Real_Application_Functions.R")
 
 # Data
-load("~/LSSQMR_Git/Data/CCLE.RData")
+load("~/CSQR_MCR/Data/CCLE.RData")
 
 # GIC
 ## Skipping this step is acceptable since optimal tuning parameters from the same GIC selection were already loaded by above line.
