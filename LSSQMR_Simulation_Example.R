@@ -15,16 +15,16 @@ library(parallelly)
 library(plyr)
 
 # Functions
-setwd("~/LSSQMR_Git/Functions")
+setwd("~/CSQR_MCR/Functions")
 source("LSSQMR_Basic_Functions.R")
 source("LSSQMR_ADMM_Functions.R")
 source("LSSQMR_Simulation_Data_Functions.R")
 source("LSSQMR_Simulation_Functions.R")
 
 # Load B and beta0
-setwd("~/LSSQMR_Git/Simulation_Parameters")
-load("~/LSSQMR_Git/Simulation_Parameters/beta0.RData")
-load("~/LSSQMR_Git/Simulation_Parameters/Beta_p800_q20_s40_r4.RData")
+setwd("~/CSQR_MCR/Simulation_Parameters")
+load("~/CSQR_MCR/Simulation_Parameters/beta0.RData")
+load("~/CSQR_MCR/Simulation_Parameters/Beta_p800_q20_s40_r4.RData")
 
 # Simulation Example
 Mult_Run_p800_q20_s40_r4_Gaussian_075=Simulation_Multiple_Run(n=400, Beta, beta0, tau=0.75, X_AR_par=0.7, 
