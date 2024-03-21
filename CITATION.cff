@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  R Codes and Datasets for "Convolution smoothed quantile
+  regression for multiple correlated responses"
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Youngjin
+    family-names: Cho
+    email: youngjin@vt.edu
+    name-particle: YOUNGJIN
+    affiliation: 'Department of Statistics, Virginia Tech'
+    orcid: 'https://orcid.org/0009-0008-2421-2581'
+  - given-names: Eun Ryung
+    family-names: Lee
+    orcid: 'https://orcid.org/0000-0003-3027-0768'
+    affiliation: 'Department of Statistics, SungKyunKwan University'
+    email: erlee@skku.edu
+  - given-names: Seyoung
+    family-names: Park
+    email: ishspsy@yonsei.ac.kr
+    affiliation: 'Department of Applied Statistics, Yonsei University'
+    orcid: 'https://orcid.org/0000-0003-4783-411X'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10849827
