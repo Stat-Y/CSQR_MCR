@@ -1,5 +1,5 @@
 # CSQR_MCR
-R Code and Datasets for "Convolution smoothed quantile regression for multiple correlated responses".
+R Codes and Datasets for "Convolution smoothed quantile regression for multiple correlated responses".
 
 ## Main Functions
 
